@@ -1,6 +1,6 @@
 # API-Tech-Test
 
-This program requires the installation of the following python libraries:
+This program requires the installation of the following python modules:
 musicbrainzngs,
 requests
 
