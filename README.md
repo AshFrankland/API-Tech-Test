@@ -1,7 +1,7 @@
 # API-Tech-Test
 
 This program requires the installation of the following python libraries:
-musicbrainzngs
+musicbrainzngs,
 requests
 
 Running the program should give you a prompt in the command line asking for an artist,
